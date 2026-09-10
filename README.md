@@ -1,16 +1,15 @@
-## Hi there 👋
+[Ron_README.md](https://github.com/user-attachments/files/32065991/Ron_README.md)
+# hi i'm ron 
 
-<!--
-**ronrobertsii/ronrobertsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+founder @ [schoolhaus](https://schoolhaus.xyz/) — an applied research practice for learning.
 
-Here are some ideas to get you started:
+i make ai for non-engineers content, and talk about the future of learning and work. i’m always tinkering on new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+- having fun building schoolhaus
+- creating agentic workflows for research, content, and creative work
+- building little tools that help me learn, think, and work better
+- writing, researching, and making things on the internet
+
+more about me: **[ronrobertsii.com](https://ronrobertsii.com/)**
